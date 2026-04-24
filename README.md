@@ -7,6 +7,7 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Python%20Mini%20Projects&fontSize=30&fontColor=ffffff"/>
 </p>
@@ -42,10 +43,7 @@ git clone https://github.com/RafikShaik07/python-mini-projects.git
 cd python-mini-projects
 python filename.py
 
----
-
-## 🙋‍♂️ Author
-
-**Rafik Shaik**  
-🚀 Aspiring Software Developer  
-🔗 LinkedIn: https://www.linkedin.com/in/shaik-rafik-79a7253a9/
+🙋‍♂️ Author
+Rafik Shaik
+🚀 Aspiring Software Developer
+🔗 LinkedIn: https://www.linkedin.com/in/shaik-rafik-79a7253a9/⁠
