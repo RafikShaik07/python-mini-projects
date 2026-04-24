@@ -42,9 +42,10 @@ git clone https://github.com/RafikShaik07/python-mini-projects.git
 cd python-mini-projects
 python filename.py
 
-
+---
 
 ## 🙋‍♂️ Author
+
 **Rafik Shaik**  
 🚀 Aspiring Software Developer  
 🔗 LinkedIn: https://www.linkedin.com/in/shaik-rafik-79a7253a9/
