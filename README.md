@@ -42,8 +42,14 @@ Built to improve programming skills and understand core concepts.
 git clone https://github.com/RafikShaik07/python-mini-projects.git
 cd python-mini-projects
 python filename.py
+```
 
-🙋‍♂️ Author
+## ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
+---
+
+## 🙋‍♂️ Author
 Rafik Shaik
 🚀 Aspiring Software Developer
 🔗 LinkedIn: https://www.linkedin.com/in/shaik-rafik-79a7253a9/⁠
+
